@@ -9,9 +9,10 @@ categories: Architecture SQL Server
 <P>The alternative is 'Scaling out': adding more servers to share the load. Peer-to-Peer-replication enables this kind of scenario. The requirement for consistency between the different nodes makes the scaling out of the database much more difficult than scaling out the web/application-server.</P>
 <P>Suppose we have two nodes, A & B, with peer-to-peer replication enabled. In an ideal situation it shouldn't matter which node processes an incoming request. For reading relatively static data this works pretty well. The real challenges come with modifying data. If an insert is performed against node A, you can't succesfully perform an update to that record on node B before the insert from node A is replicated.</P>
 <P>The are two ways of solving this problem:</P>
-<UL>
+<ul>
 <LI>Perform modifications on all nodes before completing the transaction 
-<LI>Divide the database into logical pieces. Modifications to customers with a name starting with A-M are performed on node A; modifications for names from N to Z are performed on node B. </LI></UL>
+<LI>Divide the database into logical pieces. Modifications to customers with a name starting with A-M are performed on node A; modifications for names from N to Z are performed on node B.
+</ul>
 <P>The last solution is what the <A href="http://msdn2.microsoft.com/en-us/library/ms151196.aspx">article on MSDN</A> suggests. Another solution mentioned in the article is to have all modifications performed on one of the nodes. Read-only tasks could be performed against the other node. This comes pretty close to physically clustering the database, but would still require the application to be aware of the configuration of the database. The application should be able to cope with the situation where an record that's inserted in one node, is not being returned from the 'read-only'-node.</P>
 <P>The use of Peer-to-Peer-replication is something that should be decided when developing the architecture of the entire solution. At that time it can be weighed against other options like dividing the application into different subsystems with their own databases and caching data on the web/application-server.</P>
 <P>So there are multiple options to scale SQL Server to handle a large number of transactions. Spending enough time on architecture and adding more hardware should cover most requirements. Combined with scaling out it's hard to imagine a load that it would not be able to handle.</P>

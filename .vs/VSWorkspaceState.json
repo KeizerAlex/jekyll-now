@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\images",
+    "\\_includes",
+    "\\_layouts",
+    "\\_posts"
   ],
+  "SelectedNode": "\\images\\404.jpg",
   "PreviewInSolutionExplorer": false
 }

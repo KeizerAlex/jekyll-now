@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "air" # "default" "air", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "nl"
-title                    : "Keizer's blog"
+title                    : "Keizer's Blog"
 title_separator          : "-"
 name                     : "Alex Keizer"
 description              : "Software development & .NET"
@@ -87,7 +87,7 @@ author:
   avatar           : /images/Alex.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Rotterdam, NL"
-  email            :
+  email            : alex@alexkeizer.nl
   uri              :
   bitbucket        :
   codepen          :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : KeizerAlex
   vine             :
   weibo            :
   xing             :

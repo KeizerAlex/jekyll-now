@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Storing passwords
 date: 2009-05-08 17:50:30 +02:00
 categories: Architecture Coding

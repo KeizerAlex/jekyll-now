@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Webservices and Datasets
 date: 2004-07-09 01:21:23 +02:00
 categories: Architecture

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: New release of the enterprise library
 date: 2005-01-31 00:04:31 +01:00
 categories: Architecture ASP.NET Tools

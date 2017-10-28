@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Next PDC announced
 date: 2004-12-09 22:40:06 +01:00
 categories: PDC 2005

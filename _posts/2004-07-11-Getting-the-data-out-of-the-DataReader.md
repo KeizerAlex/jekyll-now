@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Getting the data out of the DataReader
 date: 2004-07-11 16:11:21 +02:00
 categories: Coding

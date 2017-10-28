@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Change to win a tablet PC
 date: 2004-07-29 22:48:38 +02:00
 categories: Main

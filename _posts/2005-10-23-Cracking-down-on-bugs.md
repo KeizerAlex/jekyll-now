@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Cracking down on bugs
 date: 2005-10-23 19:14:31 +02:00
 categories: Fun PDC 2005

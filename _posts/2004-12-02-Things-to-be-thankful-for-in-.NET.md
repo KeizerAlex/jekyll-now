@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Things to be thankful for in .NET
 date: 2004-12-02 18:30:23 +01:00
 categories: Fun

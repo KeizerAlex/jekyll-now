@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Windows XP SP 2 and Biztalk Server
 date: 2004-08-17 17:54:13 +02:00
 categories: Main

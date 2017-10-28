@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Microsoft.Win32.Security - enumerating Sids
 date: 2004-09-06 12:50:47 +02:00
 categories: Coding

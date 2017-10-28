@@ -1,5 +1,4 @@
 ---
-layout: post
 title: DasBlog security-patch
 date: 2004-08-30 13:25:06 +02:00
 categories: Tools

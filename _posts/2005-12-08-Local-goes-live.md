@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Local goes live
 date: 2005-12-08 13:37:07 +01:00
 categories: Main

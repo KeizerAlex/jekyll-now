@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Groktalks
 date: 2005-07-09 12:23:58 +02:00
 categories: Architecture ASP.NET SQL Server

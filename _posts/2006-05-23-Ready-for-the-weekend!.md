@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ready for the weekend!
 date: 2006-05-23 22:14:56 +02:00
 categories: Longhorn

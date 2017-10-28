@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Biztalk Mapper
 date: 2005-10-17 22:36:28 +02:00
 categories: Biztalk PDC 2005

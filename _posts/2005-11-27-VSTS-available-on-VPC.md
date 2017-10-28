@@ -1,5 +1,4 @@
 ---
-layout: post
 title: VSTS available on VPC
 date: 2005-11-27 23:11:08 +01:00
 categories: Tools

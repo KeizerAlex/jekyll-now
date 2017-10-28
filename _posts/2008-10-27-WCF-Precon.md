@@ -1,5 +1,4 @@
 ---
-layout: post
 title: WCF Precon
 date: 2008-10-27 06:23:34 +01:00
 categories: PDC 2008

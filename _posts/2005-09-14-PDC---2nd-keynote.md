@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: PDC - 2nd keynote
 date: 2005-09-14 22:29:50 +02:00
 categories: PDC 2005

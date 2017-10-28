@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Obfuscate your production-database
 date: 2004-09-10 01:00:46 +02:00
 categories: Coding Tools

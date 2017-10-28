@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Feel Good" post
 date: 2004-10-25 00:54:30 +02:00
 categories: Main

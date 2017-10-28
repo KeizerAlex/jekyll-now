@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Improving the UI
 date: 2004-07-25 00:47:07 +02:00
 categories: Main

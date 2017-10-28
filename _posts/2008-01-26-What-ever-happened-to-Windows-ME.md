@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What ever happened to Windows ME?
 date: 2008-01-26 21:39:55 +01:00
 categories: Fun

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: First day at PDC
 date: 2005-09-12 17:48:56 +02:00
 categories: Fun PDC 2005

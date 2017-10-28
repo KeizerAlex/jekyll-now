@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Sybase feature #221
 date: 2006-02-06 15:00:22 +01:00
 categories: Main

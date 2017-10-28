@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Attributes of highly effective programmers
 date: 2008-02-23 23:16:26 +01:00
 categories: Main

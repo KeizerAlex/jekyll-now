@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Invest in typing skills
 date: 2006-03-17 10:23:10 +01:00
 categories: Coding

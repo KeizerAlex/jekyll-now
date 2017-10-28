@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Java powered"
 date: 2008-11-16 19:44:32 +01:00
 categories: Fun

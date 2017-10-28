@@ -1,5 +1,4 @@
 ---
-layout: post
 title: SQL Server and scalability
 date: 2007-01-14 17:16:39 +01:00
 categories: Architecture SQL Server

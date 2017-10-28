@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Jeffrey Snover on the new Windows shell (Monad)
 date: 2004-10-16 13:10:24 +02:00
 categories: Longhorn Tools

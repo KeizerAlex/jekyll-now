@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Steve B not keynoting at PDC
 date: 2005-08-14 14:48:19 +02:00
 categories: Fun PDC 2005

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: First hours with Vista 5384
 date: 2006-05-27 00:20:03 +02:00
 categories: Longhorn SQL Server

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Biztalk custom functoid
 date: 2005-05-09 13:44:59 +02:00
 categories: Biztalk

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Mapping certificates to Windows-users with IIS and SSL
 date: 2004-10-18 21:33:34 +02:00
 categories: Main

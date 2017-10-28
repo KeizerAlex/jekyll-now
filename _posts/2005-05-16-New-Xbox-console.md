@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: New Xbox-console
 date: 2005-05-16 14:08:02 +02:00
 categories: Fun

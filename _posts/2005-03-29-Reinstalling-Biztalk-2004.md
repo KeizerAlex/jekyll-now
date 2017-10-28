@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Reinstalling Biztalk 2004
 date: 2005-03-29 21:29:36 +02:00
 categories: Biztalk

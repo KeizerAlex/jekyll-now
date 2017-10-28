@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Why use a webbrowser?
 date: 2004-09-10 22:00:24 +02:00
 categories: Architecture Tools

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Windows Vista Beta 1
 date: 2005-07-27 23:06:51 +02:00
 categories: Longhorn

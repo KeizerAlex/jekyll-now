@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Congratulations, you've installed dasBlog with Web Deploy!
 date: 2009-03-11 08:00:00 +01:00
 categories: dasBlog

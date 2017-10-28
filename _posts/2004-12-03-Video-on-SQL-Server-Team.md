@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Video on SQL Server Team
 date: 2004-12-03 22:51:14 +01:00
 categories: SQL Server

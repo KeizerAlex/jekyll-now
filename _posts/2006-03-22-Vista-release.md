@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Vista release
 date: 2006-03-22 15:03:17 +01:00
 categories: Longhorn

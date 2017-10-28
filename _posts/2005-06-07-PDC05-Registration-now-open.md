@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: PDC05 Registration now open
 date: 2005-06-07 21:47:33 +02:00
 categories: PDC 2005

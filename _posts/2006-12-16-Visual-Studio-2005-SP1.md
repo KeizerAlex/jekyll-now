@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Visual Studio 2005 SP1
 date: 2006-12-16 20:47:51 +01:00
 categories: Tools

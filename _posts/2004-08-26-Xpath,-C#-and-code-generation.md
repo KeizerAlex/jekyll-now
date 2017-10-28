@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Xpath, C# and code-generation
 date: 2004-08-26 21:59:54 +02:00
 categories: Tools

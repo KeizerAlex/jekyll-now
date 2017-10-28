@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Planning the PDC
 date: 2005-03-26 01:42:11 +01:00
 categories: PDC 2005

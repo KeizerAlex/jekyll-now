@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Biztalk 2004: sending over HTTP-transport
 date: 2005-08-08 13:59:31 +02:00
 categories: Biztalk

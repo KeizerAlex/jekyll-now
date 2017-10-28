@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New video on Visual Studio 2005 Team System
 date: 2004-07-16 00:27:52 +02:00
 categories: Tools

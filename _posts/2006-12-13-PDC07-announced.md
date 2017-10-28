@@ -1,5 +1,4 @@
 ---
-layout: post
 title: PDC07 announced
 date: 2006-12-13 10:57:10 +01:00
 categories: Main
